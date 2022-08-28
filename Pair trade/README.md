@@ -1,6 +1,5 @@
 # Pair-trade strategy - Trading Taiwan stock example
 
-<<<<<<< HEAD
 ## This case consists of the following steps:
 1. Download dataset: Obtain all the stocks from Yahoo Finance in the Taiwan market
 2. Clean and prepare the data (process missing values, calculate Volatility, split the data into training data and testing data)
