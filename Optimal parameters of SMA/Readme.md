@@ -1,7 +1,7 @@
 # Optimization of parameters for SMA Strategy
 
 ## What is this?
-**Class** for the backtesting of SMA strategies
+The programming for backtesting applied to SMA strategies with parameter optimization
 
 ## Project of Contents
 - Dataset: Data source from yahoo finance
